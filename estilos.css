@@ -12,10 +12,6 @@ header{
     width: 100%;
     color: rebeccapurple;
     text-align: center;
-<<<<<<< HEAD
-    font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
-    color: red;
-=======
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,5 +25,4 @@ header{
     text-align: center;
     justify-content: center;
     align-items: center;
->>>>>>> main
 }
